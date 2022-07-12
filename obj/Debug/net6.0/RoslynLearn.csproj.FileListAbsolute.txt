@@ -1,0 +1,15 @@
+E:\MyCode\RoslynLearn\bin\Debug\net6.0\RoslynLearn.exe
+E:\MyCode\RoslynLearn\bin\Debug\net6.0\RoslynLearn.deps.json
+E:\MyCode\RoslynLearn\bin\Debug\net6.0\RoslynLearn.runtimeconfig.json
+E:\MyCode\RoslynLearn\bin\Debug\net6.0\RoslynLearn.dll
+E:\MyCode\RoslynLearn\bin\Debug\net6.0\RoslynLearn.pdb
+E:\MyCode\RoslynLearn\obj\Debug\net6.0\RoslynLearn.csproj.AssemblyReference.cache
+E:\MyCode\RoslynLearn\obj\Debug\net6.0\RoslynLearn.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyCode\RoslynLearn\obj\Debug\net6.0\RoslynLearn.AssemblyInfoInputs.cache
+E:\MyCode\RoslynLearn\obj\Debug\net6.0\RoslynLearn.AssemblyInfo.cs
+E:\MyCode\RoslynLearn\obj\Debug\net6.0\RoslynLearn.csproj.CoreCompileInputs.cache
+E:\MyCode\RoslynLearn\obj\Debug\net6.0\RoslynLearn.dll
+E:\MyCode\RoslynLearn\obj\Debug\net6.0\refint\RoslynLearn.dll
+E:\MyCode\RoslynLearn\obj\Debug\net6.0\RoslynLearn.pdb
+E:\MyCode\RoslynLearn\obj\Debug\net6.0\RoslynLearn.genruntimeconfig.cache
+E:\MyCode\RoslynLearn\obj\Debug\net6.0\ref\RoslynLearn.dll
